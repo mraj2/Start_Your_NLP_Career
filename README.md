@@ -33,5 +33,10 @@ https://fasttext.cc/docs/en/support.html
 
 https://fasttext.cc/docs/en/crawl-vectors.html
 
+# Spacy
 
 [Tutorial Link] https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/
+
+# ELMo
+
+
