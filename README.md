@@ -3,15 +3,15 @@ School of AI Visakhapatnam meetup
 
 # For Practise
 
-# Word2vec-Fastext Training from scrach 
+Word2vec-Fastext Training from scrach 
 
 https://github.com/aswit3/Start_Your_NLP_Career/blob/master/training_imdb.ipynb
 
-# ELMo Training - transfer Learning
+ELMo Training - transfer Learning
 
 https://github.com/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb
 
-# Word2vec-Glove-Fastext Using Pretrained word embeddings 
+Word2vec-Glove-Fastext Using Pretrained word embeddings 
 
 https://github.com/aswit3/Start_Your_NLP_Career/blob/master/Pretrained_word2vec_glove_fasttext.ipynb
 
