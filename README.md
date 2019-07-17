@@ -28,6 +28,10 @@ https://fasttext.cc/docs/en/crawl-vectors.html
 
 Getting started:
 https://fasttext.cc/docs/en/python-module.html
+
 https://fasttext.cc/docs/en/support.html
 
 https://fasttext.cc/docs/en/crawl-vectors.html
+
+
+[Tutorial Link] https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/
