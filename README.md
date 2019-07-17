@@ -1,6 +1,20 @@
 # Start_Your_NLP_Career
 School of AI Visakhapatnam meetup
 
+# For Practise
+
+# Word2vec-Fastext Training from scrach 
+
+https://github.com/aswit3/Start_Your_NLP_Career/blob/master/training_imdb.ipynb
+
+# ELMo Training - transfer Learning
+
+https://github.com/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb
+
+# Word2vec-Glove-Fastext Using Pretrained word embeddings 
+
+https://github.com/aswit3/Start_Your_NLP_Career/blob/master/Pretrained_word2vec_glove_fasttext.ipynb
+
 # Word2Vec
 official Page for download Pretrained Word Embeddings:
 https://code.google.com/archive/p/word2vec/
@@ -34,9 +48,19 @@ https://fasttext.cc/docs/en/support.html
 https://fasttext.cc/docs/en/crawl-vectors.html
 
 # Spacy
+official Page:
+https://spacy.io/
 
-[Tutorial Link] https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/
+Getting started:
+https://spacy.io/models
+
+https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/
 
 # ELMo
+official Page:
+https://github.com/allenai/allennlp
 
+Getting started:
+https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md
 
+https://github.com/PrashantRanjan09/Elmo-Tutorial
