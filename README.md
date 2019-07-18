@@ -28,12 +28,19 @@ https://radimrehurek.com/gensim/models/word2vec.html
 
 https://rare-technologies.com/word2vec-tutorial/
 
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
 # Glove 
 official Page for download Pretrained Word Embeddings:
 https://nlp.stanford.edu/projects/glove/
 
 Getting started:
 https://github.com/stanfordnlp/GloVe
+
+https://github.com/keras-team/keras/blob/master/examples/pretrained_word_embeddings.py
+
+https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+
 
 # FastText
 official Page for download Pretrained Word Embeddings:
