@@ -1,0 +1,18 @@
+official:
+https://code.google.com/archive/p/word2vec/
+
+https://github.com/mmihaltz/word2vec-GoogleNews-vectors
+
+Getting started:
+https://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
+
+https://radimrehurek.com/gensim/models/word2vec.html
+
+https://rare-technologies.com/word2vec-tutorial/
+
+RUN:
+
+import gensim
+
+# Load Google's pre-trained Word2Vec model.
+model = gensim.models.Word2Vec.load_word2vec_format('./model/GoogleNews-vectors-negative300.bin', binary=True)  
