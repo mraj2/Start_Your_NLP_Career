@@ -3,10 +3,10 @@ School of AI Visakhapatnam meetup
 
 # For Practise
 
-* [Word2vec-Fastext Training from scrach](https://colab.research.google.com/drive/1bAS07QFYSJDS3IuGtRNOM1ws5v3ZhVhc)
-* [Word2vec-Glove-Fastext Using Pretrained word embeddings](https://colab.research.google.com/drive/1JaEyRfLNYODEaQBf_EhcUobjaAdwi6Dq)
-* [ELMo Training - transfer Learning](https://colab.research.google.com/drive/1RwqUNJiaRnhP_1FYIuh3HYIgUcWsYBo_)
-* [Twitter-Sentiment-Analysis](https://colab.research.google.com/drive/1r3wJF7nod6DgSSNFWd-xbI4wweqObfIj#scrollTo=vZNLpxTmnRV8)
+* [Word2vec-Fastext Training from scrach](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/training_word2vec_fasttext_glove_imdb.ipynb)
+* [Word2vec-Glove-Fastext Using Pretrained word embeddings](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Pretrained_word2vec_glove_fasttext.ipynb)
+* [ELMo Training - transfer Learning](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb)
+* [Twitter-Sentiment-Analysis](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Twitter_Sentiment_Analysis.ipynb)
 
 # Pretrained Word Embeddings
 * [Word2Vec](https://code.google.com/archive/p/word2vec/)
