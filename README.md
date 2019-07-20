@@ -15,3 +15,8 @@ School of AI Visakhapatnam meetup
 * [FastText](https://fasttext.cc/)
 * [Spacy](https://spacy.io/models)
 * [ELMo](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md)
+
+# References
+* [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+* [NLP tutorials](https://github.com/graykode/nlp-tutorial)
+* [Embedding Projector](https://projector.tensorflow.org/)
