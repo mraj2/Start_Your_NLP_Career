@@ -14,7 +14,10 @@ School of AI Visakhapatnam meetup
 * [Glove](https://nlp.stanford.edu/projects/glove/)
 * [FastText](https://fasttext.cc/)
 * [Spacy](https://spacy.io/models)
-* [ELMo](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md)
+* [Google's Universal Sentence Encoder](https://www.learnopencv.com/universal-sentence-encoder/)
+* [ELMo](https://allennlp.org/elmo)
+* [BERT, GPT, GPT-2, Transformer-XL, XLNet, XLM](https://github.com/huggingface/pytorch-transformers)
+
 
 # References
 * [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
