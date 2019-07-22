@@ -8,7 +8,7 @@ School of AI Visakhapatnam meetup
 * [Word2vec-Glove-Fastext Using Pretrained word embeddings](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Pretrained_word2vec_glove_fasttext.ipynb)
 * [ELMo Training - transfer Learning](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb)
 * [Twitter-Sentiment-Analysis](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Twitter_Sentiment_Analysis.ipynb)
-
+* [Spam/Not-Spam Classification](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/spam_classification.ipynb)
 # Pretrained Word Embeddings
 * [Word2Vec](https://code.google.com/archive/p/word2vec/)
 * [Glove](https://nlp.stanford.edu/projects/glove/)
