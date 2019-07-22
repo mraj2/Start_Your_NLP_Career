@@ -6,9 +6,9 @@ School of AI Visakhapatnam meetup
 * [Skipgram](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram_Tensor(Softmax).ipynb)
 * [Word2vec-Fastext Training from scrach](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/training_word2vec_fasttext_glove_imdb.ipynb)
 * [Word2vec-Glove-Fastext Using Pretrained word embeddings](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Pretrained_word2vec_glove_fasttext.ipynb)
-* [ELMo Training - transfer Learning](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb)
+* [ELMo Training](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb)
 * [Twitter-Sentiment-Analysis](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Twitter_Sentiment_Analysis.ipynb)
-* [Spam/Not-Spam Classification](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/spam_classification.ipynb)
+* [Spam/Not-Spam Classification- ELMo & Google's Universal Sentence Encoder](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/spam_classification.ipynb)
 # Pretrained Word Embeddings
 * [Word2Vec](https://code.google.com/archive/p/word2vec/)
 * [Glove](https://nlp.stanford.edu/projects/glove/)
