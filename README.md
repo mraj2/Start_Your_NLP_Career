@@ -16,7 +16,7 @@ School of AI Visakhapatnam meetup
 * [Spacy](https://spacy.io/models)
 * [Google's Universal Sentence Encoder](https://www.learnopencv.com/universal-sentence-encoder/)
 * [ELMo](https://allennlp.org/elmo)
-* [BERT, GPT, GPT-2, Transformer-XL, XLNet, XLM](https://github.com/huggingface/pytorch-transformers)
+* [BERT, GPT, GPT-2, Transformer-XL, XLNet, XLM](https://huggingface.co/pytorch-transformers/index.html)
 
 
 # References
