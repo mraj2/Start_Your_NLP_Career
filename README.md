@@ -20,6 +20,8 @@ School of AI Visakhapatnam meetup
 
 
 # References
+* [Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html#context-based-continuous-bag-of-words-cbow)
+* [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
 * [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 * [NLP tutorials](https://github.com/graykode/nlp-tutorial)
 * [Embedding Projector](https://projector.tensorflow.org/)
