@@ -9,6 +9,9 @@ School of AI Visakhapatnam meetup
 * [ELMo Training](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/elmo_with_imdb.ipynb)
 * [Twitter-Sentiment-Analysis](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/Twitter_Sentiment_Analysis.ipynb)
 * [Spam/Not-Spam Classification- ELMo & Google's Universal Sentence Encoder](https://colab.research.google.com/github/aswit3/Start_Your_NLP_Career/blob/master/spam_classification.ipynb)
+* [Bi-LSTM(Attention)](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-3.Bi-LSTM(Attention)/Bi_LSTM(Attention)_Torch.ipynb)
+* [Transformer-Torch](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer_Torch.ipynb)
+* [BERT-Torch](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT_Torch.ipynb)
 # Pretrained Word Embeddings
 * [Word2Vec](https://code.google.com/archive/p/word2vec/)
 * [Glove](https://nlp.stanford.edu/projects/glove/)
