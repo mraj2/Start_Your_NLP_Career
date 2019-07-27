@@ -25,4 +25,5 @@ School of AI Visakhapatnam meetup
 * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 * [Ultimate Guide to Understand and Implement Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 * [NLP tutorials](https://github.com/graykode/nlp-tutorial)
+* [PyTorch-Transformers](https://github.com/huggingface/pytorch-transformers)
 * [Embedding Projector](https://projector.tensorflow.org/)
